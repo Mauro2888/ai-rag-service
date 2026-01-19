@@ -1,6 +1,6 @@
 # AiRagService Service
 
-Rag investion and service service
+Rag ingestion and service service
 
 ## Stack
 
