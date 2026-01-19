@@ -1,6 +1,6 @@
 # AiRagService Service
 
-Quarkus microservice following hexagonal architecture.
+Rag investion and service service
 
 ## Stack
 
